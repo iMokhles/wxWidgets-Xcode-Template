@@ -21,7 +21,12 @@ Xcode template for wxWidgets
 
 <p align="center">
     <img src="screenshot.png" alt="wxWidgets-Xcode-Template">
-  </p>
+</p>
+
+[x] template comes with simple example see image below
+<p align="center">
+    <img src="simple.png" alt="wxWidgets-Xcode-Template">
+</p>
 
 
 
