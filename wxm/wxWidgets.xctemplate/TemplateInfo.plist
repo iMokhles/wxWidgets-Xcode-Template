@@ -23,7 +23,9 @@
 	<array>
 		<dict>
 			<key>ProductType</key>
-			<string>com.apple.product-type.tool</string>
+            <string>com.apple.product-type.application</string>
+			<key>TargetIdentifier</key>
+            <string>com.imokhles.wxmWidgetsTarget</string>
 			<key>SharedSettings</key>
 			<dict>
 				<key>MACOSX_DEPLOYMENT_TARGET</key>
